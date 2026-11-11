@@ -6,7 +6,7 @@ sites:
   - name: NewVision_Live
     url: https://nv.y-dev.tech
   - name: NewVision_Git
-    url: https://git.nv.y-dev.tech
+    url: https://git.newvision.y-dev.tech
   - name: NewVision_SSO
     url: https://sso.newvision.y-dev.tech
   - name: NewVision_NAS
