@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nv.y-dev.tech.ico",
     "slug": "new-vision-live",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 914,
-    "timeDay": 699,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "uptime": "82.48%",
+    "uptimeDay": "15.37%",
+    "uptimeWeek": "82.48%",
+    "uptimeMonth": "82.48%",
+    "uptimeYear": "82.48%",
+    "time": 877,
+    "timeDay": 630,
+    "timeWeek": 877,
+    "timeMonth": 877,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2026-11-15": 2
+      "2026-11-16": 28,
+      "2026-11-15": 1191
     }
   },
   {
@@ -25,19 +26,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.newvision.y-dev.tech.ico",
     "slug": "new-vision-git",
     "status": "down",
-    "uptime": "90.47%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "90.47%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "90.47%",
-    "time": 950,
-    "timeDay": 693,
-    "timeWeek": 950,
-    "timeMonth": 950,
-    "timeYear": 950,
+    "uptime": "74.64%",
+    "uptimeDay": "15.39%",
+    "uptimeWeek": "74.64%",
+    "uptimeMonth": "74.64%",
+    "uptimeYear": "74.64%",
+    "time": 900,
+    "timeDay": 617,
+    "timeWeek": 900,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2026-11-11": 546,
-      "2026-11-15": 1
+      "2026-11-16": 28,
+      "2026-11-15": 1190
     }
   },
   {
@@ -46,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.newvision.y-dev.tech.ico",
     "slug": "new-vision-sso",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1827,
-    "timeDay": 1127,
-    "timeWeek": 1827,
-    "timeMonth": 1827,
-    "timeYear": 1827,
+    "uptime": "82.49%",
+    "uptimeDay": "15.40%",
+    "uptimeWeek": "82.49%",
+    "uptimeMonth": "82.49%",
+    "uptimeYear": "82.49%",
+    "time": 1668,
+    "timeDay": 601,
+    "timeWeek": 1668,
+    "timeMonth": 1668,
+    "timeYear": 1668,
     "dailyMinutesDown": {
-      "2026-11-15": 1
+      "2026-11-16": 28,
+      "2026-11-15": 1190
     }
   },
   {
@@ -66,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.newvision.y-dev.tech.ico",
     "slug": "new-vision-nas",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1037,
-    "timeDay": 696,
-    "timeWeek": 1037,
-    "timeMonth": 1037,
-    "timeYear": 1037,
+    "uptime": "82.49%",
+    "uptimeDay": "15.42%",
+    "uptimeWeek": "82.49%",
+    "uptimeMonth": "82.49%",
+    "uptimeYear": "82.49%",
+    "time": 981,
+    "timeDay": 602,
+    "timeWeek": 981,
+    "timeMonth": 981,
+    "timeYear": 981,
     "dailyMinutesDown": {
-      "2026-11-15": 1
+      "2026-11-16": 28,
+      "2026-11-15": 1190
     }
   },
   {
@@ -86,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.newvision.y-dev.tech.ico",
     "slug": "new-vision-doc-space",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 648,
-    "timeWeek": 917,
-    "timeMonth": 917,
-    "timeYear": 917,
+    "uptime": "82.50%",
+    "uptimeDay": "15.47%",
+    "uptimeWeek": "82.50%",
+    "uptimeMonth": "82.50%",
+    "uptimeYear": "82.50%",
+    "time": 877,
+    "timeDay": 607,
+    "timeWeek": 877,
+    "timeMonth": 877,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2026-11-15": 0
+      "2026-11-16": 28,
+      "2026-11-15": 1189
     }
   }
 ]
